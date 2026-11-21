@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:FF69B4,100:C084FC&height=200&section=header&text=Clara%20Palacios&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=SOFTWARE%20%E2%80%A2%20WEB%20%E2%80%A2%20GAMES&descAlignY=62&descSize=16" alt="Pink and purple gaming themed banner for Clara Palacios" />
+<img width="100%" src="./assets/pink-gaming-banner.svg" alt="Pink and lavender gaming banner with Clara Palacios' name, controller, and software, web, and games text" />
 
 [Portfolio](https://clarapalacios.netlify.app) · [LinkedIn](https://www.linkedin.com/in/clara-palacios1990/) · [Play Sharky Dash](https://kitsune-pixel-works.itch.io/sharky-dash)
 
