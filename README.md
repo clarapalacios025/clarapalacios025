@@ -1,4 +1,4 @@
-![Animated pink Switch Pro-style controller with sparkling buttons](./assets/pink-switch-pro.gif)
+![Animated pink 8-bit controller with a moving heart Snake border](./assets/pink-8bit-snake.gif)
 
 <div align="center">
 
