@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Clara Palacios gaming profile banner</title>
+  <desc id="desc">A pink and lavender gaming banner with a controller and the words Software, Web, Games.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffb6c1"/>
+      <stop offset=".52" stop-color="#ff69b4"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff0f6" stop-opacity=".98"/>
+      <stop offset="1" stop-color="#f3e8ff" stop-opacity=".92"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="260" rx="30" fill="url(#bg)"/>
+  <circle cx="75" cy="60" r="5" fill="#fff" opacity=".85"/>
+  <circle cx="180" cy="205" r="4" fill="#fff" opacity=".8"/>
+  <circle cx="1020" cy="45" r="6" fill="#fff" opacity=".75"/>
+  <circle cx="1110" cy="200" r="4" fill="#fff" opacity=".85"/>
+  <path d="M78 131l8 18 19 2-14 13 4 19-17-10-17 10 4-19-14-13 19-2z" fill="#fff" opacity=".75"/>
+  <path d="M1100 104l6 14 15 1-11 10 3 15-13-8-13 8 3-15-11-10 15-1z" fill="#fff" opacity=".7"/>
+  <g fill="#fff" opacity=".28">
+    <circle cx="250" cy="42" r="3"/><circle cx="295" cy="80" r="3"/><circle cx="940" cy="210" r="3"/>
+    <circle cx="980" cy="178" r="3"/><circle cx="150" cy="95" r="3"/><circle cx="1045" cy="88" r="3"/>
+  </g>
+  <rect x="245" y="31" width="710" height="198" rx="26" fill="url(#card)"/>
+  <text x="600" y="111" text-anchor="middle" fill="#6d285e" font-family="Verdana,Arial,sans-serif" font-size="42" font-weight="700" letter-spacing="2">CLARA PALACIOS</text>
+  <text x="600" y="151" text-anchor="middle" fill="#8a477b" font-family="Verdana,Arial,sans-serif" font-size="18" font-weight="600" letter-spacing="5">SOFTWARE  •  WEB  •  GAMES</text>
+  <g transform="translate(515 173)">
+    <path d="M18 5h33c8 0 14 5 16 12l8 24c3 10-8 17-16 10L45 41H25L11 51C3 57-8 50-5 41l8-24c2-7 7-12 15-12z" fill="#e65aa8" stroke="#9d397d" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M17 17v18M8 26h18" stroke="#fff7fb" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="54" cy="22" r="4" fill="#fff7fb"/><circle cx="64" cy="31" r="4" fill="#fff7fb"/>
+  </g>
+  <g transform="translate(655 184)" fill="#c084fc">
+    <path d="M8 0l3 7 8 1-6 5 2 8-7-4-7 4 2-8-6-5 8-1z"/>
+    <path d="M42 0l3 7 8 1-6 5 2 8-7-4-7 4 2-8-6-5 8-1z"/>
+  </g>
+</svg>
