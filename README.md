@@ -1,4 +1,4 @@
-![Animated pink pixel starburst banner with Clara Palacios and a moving heart Snake border](./assets/pink-pixel-star.gif)
+![Pink pixel starbursts in mixed sizes with a moving heart Snake border](https://raw.githubusercontent.com/clarapalacios025/clarapalacios025/main/assets/pink-star-hearts.svg?v=20261121)
 
 <div align="center">
 
