@@ -1,4 +1,4 @@
-![Animated pink pixel sparkle banner for Clara Palacios: software engineering, coding, web, and games](./assets/pink-general-profile.gif)
+![Animated pink pixel starburst banner with Clara Palacios and a moving heart Snake border](./assets/pink-pixel-star.gif)
 
 <div align="center">
 
@@ -10,7 +10,7 @@
 
 ## Hi, I'm Clara! 💗
 
-I'm studying Information Science & Technology and building my skills in software engineering, programming, web development, and game development. I enjoy learning how systems work and turning ideas into projects. Right now, I'm focusing on Python, backend development, APIs, and AI/ML application development.
+I'm studying Information Science & Technology and working toward becoming a software engineer, web developer, and game developer. I enjoy learning how systems work and building projects across software, web, and games. Right now, I'm focusing on Python, backend development, APIs, and AI/ML application development.
 
 ### ✨ My current toolkit
 
