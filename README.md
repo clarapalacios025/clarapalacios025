@@ -1,4 +1,4 @@
-![Animated pink pixel starbursts in mixed sizes with a heart Snake border](https://raw.githubusercontent.com/clarapalacios025/clarapalacios025/main/assets/pink-pixel-star.gif?v=20261121)
+![Animated pink pixel starbursts in mixed sizes with a heart Snake border](https://raw.githubusercontent.com/clarapalacios025/clarapalacios025/main/assets/pink-pixel-star.gif?v=b1f3255)
 
 <div align="center">
 
