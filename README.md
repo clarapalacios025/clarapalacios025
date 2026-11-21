@@ -1,4 +1,4 @@
-![Animated pink 8-bit controller with a moving heart Snake border](./assets/pink-8bit-snake.gif)
+![Animated pink pixel sparkle banner for Clara Palacios: software engineering, coding, web, and games](./assets/pink-general-profile.gif)
 
 <div align="center">
 
@@ -8,9 +8,9 @@
 
 ---
 
-## Hey, I'm Clara! 🎮💗
+## Hi, I'm Clara! 💗
 
-I'm an Information Science & Technology student. I like building software, web projects, and games while learning how things work. Right now, I'm focusing on Python, backend development, APIs, and AI/ML application development.
+I'm studying Information Science & Technology and building my skills in software engineering, programming, web development, and game development. I enjoy learning how systems work and turning ideas into projects. Right now, I'm focusing on Python, backend development, APIs, and AI/ML application development.
 
 ### ✨ My current toolkit
 
@@ -21,24 +21,34 @@ I'm an Information Science & Technology student. I like building software, web p
 ![CSS3](https://img.shields.io/badge/CSS3-d98bff?style=for-the-badge&logo=css3&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-ff69b4?style=for-the-badge&logo=godotengine&logoColor=white)
 
-### 🎮 Project quest log
+### 🛠️ Software engineering & coding
 
-| Project | What I'm making |
+| Project | What I'm building |
+| --- | --- |
+| Python Cheat Sheet Widget | A macOS widget with Python reminders and examples, built in VS Code using SwiftUI. |
+| Dino App | An app with assistants for front-end work, back-end work, and code review. |
+| [Planner](https://github.com/clarapalacios025/planner) | A personal planner project in progress. |
+
+### 🌐 Web projects
+
+| Project | What I'm building |
 | --- | --- |
 | [My portfolio](https://clarapalacios.netlify.app) | My software, web, and game projects in one place. |
-| [Sharky Dash](https://kitsune-pixel-works.itch.io/sharky-dash) | An 8-bit underwater arcade game. **Play it on itch.io.** |
-| [Ronin Together](https://clarapalacios.netlify.app/#work) | A browser-based cooperative survival game. Project details are on my portfolio. |
-| Dino App | My app with assistants for front-end work, back-end work, and code review. |
-| Python Cheat Sheet Widget | A macOS widget project with quick Python reminders and examples, built in VS Code using SwiftUI. |
-| [Planner](https://github.com/clarapalacios025/planner) | A personal planner project in progress. |
 | [Looking Good Med Spa website](https://clarapalacios.netlify.app/#work) | A website design project featured in my portfolio. |
 
-### 🌸 What I'm learning now
+### 🎮 Game development
 
-Python, backend development, APIs, and AI/ML application development.
+| Project | What I'm building |
+| --- | --- |
+| [Sharky Dash](https://kitsune-pixel-works.itch.io/sharky-dash) | An 8-bit underwater arcade game. **Play it on itch.io.** |
+| [Ronin Together](https://clarapalacios.netlify.app/#work) | A browser-based cooperative survival game. Project details are on my portfolio. |
+
+### 🌱 What I'm learning
+
+Python, software engineering, backend development, APIs, AI/ML applications, web development, and game development.
 
 <div align="center">
 
-💖 Thanks for stopping by! Keep leveling up. 💖
+💖 Thanks for stopping by! Keep learning and building. 💖
 
 </div>
