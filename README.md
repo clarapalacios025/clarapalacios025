@@ -1,4 +1,4 @@
-![Animated pink controller banner with sparkling buttons](./assets/pink-controller.gif)
+![Animated pink controller banner with sparkling buttons](./assets/pink-switch-pro.gif)
 
 <div align="center">
 
