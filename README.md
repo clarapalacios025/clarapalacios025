@@ -52,3 +52,22 @@ Python, software engineering, backend development, APIs, AI/ML applications, web
 💖 Thanks for stopping by! Keep learning and building. 💖
 
 </div>
+
+---
+
+## 📊 GitHub Stats 💗
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=clarapalacios025&show_icons=true&hide_border=true&title_color=ff69b4&icon_color=ec4899&text_color=6d284f&bg_color=fff0f6&border_radius=12" alt="Clara's GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarapalacios025&layout=compact&hide_border=true&title_color=ff69b4&text_color=6d284f&bg_color=fff0f6&border_radius=12" alt="Top languages" />
+
+</div>
+
+## 💗 Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/clarapalacios025/clarapalacios025/output/github-contribution-grid-snake-pink.svg" alt="Pink animated GitHub contribution snake" />
+
+</div>
