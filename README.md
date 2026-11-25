@@ -39,5 +39,9 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/clarapalacios025/clarapalacios025/output/github-snake-pink-dark.svg" width="100%" alt="Pink snake eating Clara's contribution graph" />
+</p>
+
+<p align="center">
   <img src="assets/footer.svg?v=1795612729" width="100%" alt="Always learning, always building. Thanks for stopping by." />
 </p>
