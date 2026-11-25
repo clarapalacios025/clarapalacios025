@@ -22,12 +22,12 @@
 
 <p align="center">
   <a href="https://kitsune-pixel-works.itch.io/sharky-dash"><img src="assets/card-sharky-dash.svg?v=1795612729" width="49%" alt="Sharky Dash: an 8-bit underwater arcade game" /></a>
-  <a href="https://clarapalacios.netlify.app/#work"><img src="assets/card-ronin-together.svg?v=1795612729" width="49%" alt="Ronin Together: a cooperative survival game in the browser" /></a>
+  <a href="https://github.com/clarapalacios025/ronin-together"><img src="assets/card-ronin-together.svg?v=2" width="49%" alt="Ronin Together: a cooperative survival game in the browser" /></a>
   <a href="https://clarapalacios.netlify.app"><img src="assets/card-portfolio.svg?v=1795612729" width="49%" alt="Portfolio" /></a>
   <a href="https://clarapalacios.netlify.app/#work"><img src="assets/card-med-spa.svg?v=1795612729" width="49%" alt="Looking Good Med Spa website" /></a>
-  <img src="assets/card-cheat-sheet.svg?v=1795612729" width="49%" alt="Python Cheat Sheet Widget for macOS" />
-  <img src="assets/card-dino-app.svg?v=1795612729" width="49%" alt="Dino App" />
-  <a href="https://github.com/clarapalacios025/planner"><img src="assets/card-planner.svg?v=1795612729" width="49%" alt="Planner" /></a>
+  <a href="https://github.com/clarapalacios025/python-cheat-sheet-widget"><img src="assets/card-cheat-sheet.svg?v=2" width="49%" alt="Python Cheat Sheet Widget for macOS" /></a>
+  <a href="https://github.com/clarapalacios025/dino-team"><img src="assets/card-dino-app.svg?v=2" width="49%" alt="Dino Team: three dino teammates write, review, and test code" /></a>
+  <a href="https://github.com/clarapalacios025/planner"><img src="assets/card-planner.svg?v=2" width="49%" alt="Alia Planner: a SwiftUI iPhone planner" /></a>
   <img src="assets/card-learning.svg?v=1795612729" width="49%" alt="Currently learning: Python, backend, APIs, AI/ML apps, web and game development" />
 </p>
 
