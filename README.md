@@ -39,9 +39,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/clarapalacios025/clarapalacios025/output/github-contribution-grid-snake-pink.svg" width="100%" alt="Pink animated contribution snake" />
-</p>
-
-<p align="center">
   <img src="assets/footer.svg?v=1795612729" width="100%" alt="Always learning, always building. Thanks for stopping by." />
 </p>
