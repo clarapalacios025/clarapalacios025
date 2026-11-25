@@ -6,8 +6,8 @@
 </g></g></defs>
 <rect x="1" y="1" width="458" height="168" rx="14" fill="#1a0b1d" stroke="#3b1a3c" stroke-width="2"/>
 <rect x="22" y="22" width="86" height="22" rx="11" fill="#2a1030"/><text x="65.0" y="37" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="700" letter-spacing="1.5" fill="#ff7bc8">SOFTWARE</text>
-<g transform="translate(426 34) scale(0.710)"><use href="#pstar"/><animate attributeName="opacity" values="1;0.55;1" dur="2.6s" begin="-1.0s" repeatCount="indefinite"/></g>
-<text x="22" y="78" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="21" font-weight="700" fill="#ffe3f1">Dino App</text>
-<text x="22" y="104" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="400" fill="#c99ab8">Built-in assistants for front-end,</text><text x="22" y="124" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="400" fill="#c99ab8">back-end, and code review.</text>
-<text x="22" y="152" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#ff4fa3">In progress</text>
+<g transform="translate(426 34) scale(0.710)"><use href="#pstar"/><animate attributeName="opacity" values="1;0.55;1" dur="2.6s" begin="-0.0s" repeatCount="indefinite"/></g>
+<text x="22" y="78" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="21" font-weight="700" fill="#ffe3f1">Dino Team</text>
+<text x="22" y="104" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="400" fill="#c99ab8">Three dino teammates write, review,</text><text x="22" y="124" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="400" fill="#c99ab8">and test code in a 3D office.</text>
+<text x="22" y="152" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#ff4fa3">View repo →</text>
 </svg>

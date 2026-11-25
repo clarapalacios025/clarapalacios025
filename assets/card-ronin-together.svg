@@ -8,6 +8,6 @@
 <rect x="22" y="22" width="54" height="22" rx="11" fill="#2a1030"/><text x="49.0" y="37" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="700" letter-spacing="1.5" fill="#ff7bc8">GAME</text>
 <g transform="translate(426 34) scale(0.710)"><use href="#pstar"/><animate attributeName="opacity" values="1;0.55;1" dur="2.6s" begin="-1.0s" repeatCount="indefinite"/></g>
 <text x="22" y="78" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="21" font-weight="700" fill="#ffe3f1">Ronin Together</text>
-<text x="22" y="104" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="400" fill="#c99ab8">A cooperative survival game that</text><text x="22" y="124" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="400" fill="#c99ab8">runs in the browser.</text>
-<text x="22" y="152" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#ff4fa3">View on portfolio →</text>
+<text x="22" y="104" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="400" fill="#c99ab8">A cooperative survival game for</text><text x="22" y="124" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="400" fill="#c99ab8">1 to 4 players in the browser.</text>
+<text x="22" y="152" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#ff4fa3">View repo →</text>
 </svg>
