@@ -1,73 +1,47 @@
-![Pink pixel stars of different sizes with Clara's 8-bit name and animated heart border](https://raw.githubusercontent.com/clarapalacios025/clarapalacios025/main/assets/pink-star-hearts.svg?v=cd19fc6483a7a9843428414085038a0a6c8deced)
-
 <div align="center">
 
-[Portfolio](https://clarapalacios.netlify.app) · [LinkedIn](https://www.linkedin.com/in/clara-palacios1990/) · [Play Sharky Dash](https://kitsune-pixel-works.itch.io/sharky-dash)
+<img src="assets/pink-star-hearts.svg?v=1795612729" width="100%" alt="Clara Palacios banner with pink pixel stars and a heart border" />
+
+<a href="https://clarapalacios.netlify.app"><img src="https://img.shields.io/badge/Portfolio-1a0b1d?style=for-the-badge&logo=netlify&logoColor=ff7bc8" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/clara-palacios1990/"><img src="https://img.shields.io/badge/LinkedIn-1a0b1d?style=for-the-badge&logo=linkedin&logoColor=ff7bc8" alt="LinkedIn" /></a>
+<a href="https://kitsune-pixel-works.itch.io/sharky-dash"><img src="https://img.shields.io/badge/Play_Sharky_Dash-1a0b1d?style=for-the-badge&logo=itchdotio&logoColor=ff7bc8" alt="Play Sharky Dash" /></a>
+
+<br /><br />
+
+<img src="assets/intro.svg?v=1795612729" width="100%" alt="Hi, I'm Clara. Information Science and Technology student at William Paterson University. I build across software, the web, and games." />
 
 </div>
 
----
+### Tech stack
 
-## Hi, I'm Clara
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,swift,html,css,godot,git,github,vscode&theme=dark&perline=9" alt="Python, JavaScript, Swift, HTML, CSS, Godot, Git, GitHub, VS Code" />
+</p>
 
-I'm an Information Science & Technology student at William Paterson University, working toward software engineering, web development, and game development. I like figuring out how systems fit together, and most of what I build sits somewhere between software, the web, and games. These days I'm spending most of my time on Python, backend work, APIs, and building applications with AI/ML.
+### Projects
 
-### Toolkit
+<p align="center">
+  <a href="https://kitsune-pixel-works.itch.io/sharky-dash"><img src="assets/card-sharky-dash.svg?v=1795612729" width="49%" alt="Sharky Dash: an 8-bit underwater arcade game" /></a>
+  <a href="https://clarapalacios.netlify.app/#work"><img src="assets/card-ronin-together.svg?v=1795612729" width="49%" alt="Ronin Together: a cooperative survival game in the browser" /></a>
+  <a href="https://clarapalacios.netlify.app"><img src="assets/card-portfolio.svg?v=1795612729" width="49%" alt="Portfolio" /></a>
+  <a href="https://clarapalacios.netlify.app/#work"><img src="assets/card-med-spa.svg?v=1795612729" width="49%" alt="Looking Good Med Spa website" /></a>
+  <img src="assets/card-cheat-sheet.svg?v=1795612729" width="49%" alt="Python Cheat Sheet Widget for macOS" />
+  <img src="assets/card-dino-app.svg?v=1795612729" width="49%" alt="Dino App" />
+  <a href="https://github.com/clarapalacios025/planner"><img src="assets/card-planner.svg?v=1795612729" width="49%" alt="Planner" /></a>
+  <img src="assets/card-learning.svg?v=1795612729" width="49%" alt="Currently learning: Python, backend, APIs, AI/ML apps, web and game development" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-ff69b4?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-c084fc?style=for-the-badge&logo=javascript&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-f5a3ca?style=for-the-badge&logo=swift&logoColor=6d285e)
-![HTML5](https://img.shields.io/badge/HTML5-ff9eb5?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-d98bff?style=for-the-badge&logo=css3&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-ff69b4?style=for-the-badge&logo=godotengine&logoColor=white)
+### GitHub activity
 
-### Software
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=clarapalacios025&show_icons=true&hide_border=true&bg_color=1a0b1d&title_color=ff7bc8&icon_color=ff4fa3&text_color=ffe3f1&border_radius=14" alt="Clara's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarapalacios025&layout=compact&hide_border=true&bg_color=1a0b1d&title_color=ff7bc8&text_color=ffe3f1&border_radius=14" alt="Top languages" />
+</p>
 
-| Project | About |
-| --- | --- |
-| Python Cheat Sheet Widget | A macOS widget with quick Python reminders and examples, written in SwiftUI. |
-| Dino App | An app with built-in assistants for front-end work, back-end work, and code review. |
-| [Planner](https://github.com/clarapalacios025/planner) | A personal planner I'm still building. |
+<p align="center">
+  <img src="https://raw.githubusercontent.com/clarapalacios025/clarapalacios025/output/github-contribution-grid-snake-pink.svg" width="100%" alt="Pink animated contribution snake" />
+</p>
 
-### Web
-
-| Project | About |
-| --- | --- |
-| [Portfolio](https://clarapalacios.netlify.app) | My software, web, and game work in one place. |
-| [Looking Good Med Spa](https://clarapalacios.netlify.app/#work) | A website design for a med spa, featured in my portfolio. |
-
-### Games
-
-| Project | About |
-| --- | --- |
-| [Sharky Dash](https://kitsune-pixel-works.itch.io/sharky-dash) | An 8-bit underwater arcade game. You can play it on itch.io. |
-| [Ronin Together](https://clarapalacios.netlify.app/#work) | A cooperative survival game that runs in the browser. More details on my portfolio. |
-
-### Currently learning
-
-Python, backend development, APIs, AI/ML applications, web development, and game development.
-
----
-
-## GitHub stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=clarapalacios025&show_icons=true&hide_border=true&title_color=ff69b4&icon_color=ec4899&text_color=6d284f&bg_color=fff0f6&border_radius=12" alt="Clara's GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarapalacios025&layout=compact&hide_border=true&title_color=ff69b4&text_color=6d284f&bg_color=fff0f6&border_radius=12" alt="Top languages" />
-
-</div>
-
-## Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/clarapalacios025/clarapalacios025/output/github-contribution-grid-snake-pink.svg" alt="Pink animated GitHub contribution snake" />
-
-</div>
-
-<div align="center">
-
-Thanks for stopping by.
-
-</div>
+<p align="center">
+  <img src="assets/footer.svg?v=1795612729" width="100%" alt="Always learning, always building. Thanks for stopping by." />
+</p>
